@@ -30,9 +30,9 @@ body {
 
 .products:hover {
     box-shadow: 2px 8px 30px #a39c9c;
-    translate: (0 10px);
-    border-radius: 4px;
-    transition: all 0.4s ease-in-out;
+    transform: translateY(-10px);
+    border-radius: 7px;
+    transition: all 0.2s ease-in;
 
 
 }
